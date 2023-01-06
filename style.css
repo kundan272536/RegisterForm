@@ -52,7 +52,7 @@ input#submit{
     color: #fff;
     cursor: pointer;
     border: 1px solid rgba(255,255,255,0.3);
-    box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 5px white;
     margin-bottom: 20px;
 }
 label,span,h2{
